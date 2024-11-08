@@ -1,4 +1,4 @@
-# Challenge API Pdouct List
+# Challenge API Product List
 
 The first step of our technical challenge is create database schema.
 Go in the folder: Database and run (import) the file: products-api_tb_products.sql in your MySQL Workbench.
